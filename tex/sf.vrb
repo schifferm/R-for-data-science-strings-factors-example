@@ -1,0 +1,6 @@
+\frametitle{}
+柯候選人的討論頻率明顯高於其他候選人！
+\begin{figure}
+       \includegraphics[width=10cm]{plot.png}
+      \caption{\label{1}各候選人在八卦版的討論頻率圖}
+\end{figure}
